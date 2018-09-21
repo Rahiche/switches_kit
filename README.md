@@ -8,11 +8,13 @@ in the repo you will find the awesome  switches/toggles widgets implemented in f
 Please :star: this repo and share it with others
 
 # gif
-| Labeled switch Theme     | Labeled switch Animation  |
-| ------------- |:-------------:|
-| <img src="gifs/day.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/flutter_jobs_app/blob/master/new%20flutter%20jobs.gif?raw=true" width="200"/>|
+| Labeled switch Theme     | Labeled switch Animation  |Labeled switch Style|
+| ------------- |:-------------:|:-------------:|
+| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-theme.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-textanimation.gif?raw=true" width="200"/>| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-1.gif?raw=true" width="200"/>|
 
-
+| Gender switch | Like switch |DayNight switch |
+| ------------- |:-------------:|:-------------:|
+| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/gender.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/like.gif?raw=true" width="200"/>| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/day.gif?raw=true" width="200"/>|
 
 
 ### Created

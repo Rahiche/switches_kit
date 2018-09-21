@@ -10,7 +10,7 @@ Please :star: this repo and share it with others
 # gif
 | Labeled switch Theme     | Labeled switch Animation  |
 | ------------- |:-------------:|
-| <img src="https://github.com/Rahiche/flutter_jobs_app/blob/master/full.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/flutter_jobs_app/blob/master/new%20flutter%20jobs.gif?raw=true" width="200"/>|
+| <img src="gifs/day.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/flutter_jobs_app/blob/master/new%20flutter%20jobs.gif?raw=true" width="200"/>|
 
 
 

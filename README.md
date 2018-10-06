@@ -8,9 +8,9 @@ in the repo you will find the awesome  switches/toggles widgets implemented in f
 Please :star: this repo and share it with others
 
 # gif
-| Labeled switch Theme     | Labeled switch Animation  |Labeled switch Style|
+| Labeled switch Theme      |Labeled switch Style|
 | ------------- |:-------------:|:-------------:|
-| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-theme.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-textanimation.gif?raw=true" width="200"/>| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-1.gif?raw=true" width="200"/>|
+| <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-theme.gif?raw=true" width="200"/> | <img src="https://github.com/Rahiche/switches_kit/blob/master/lib/gifs/LabledSwitch-1.gif?raw=true" width="200"/>|
 
 | Gender switch | Like switch |DayNight switch |
 | ------------- |:-------------:|:-------------:|
